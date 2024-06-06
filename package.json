@@ -1,11 +1,16 @@
 {
-  "name": "code-camp",
+  "name": "ec_code_camp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code and projects for code camp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
+  "keywords": [],
   "author": "Esther Grosberg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "EC_Code_Camp"
+  }
 }
